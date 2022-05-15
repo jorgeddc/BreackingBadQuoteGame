@@ -12,7 +12,8 @@ return (
    <>   
  <nav>
       
-       <Link className="link " to="/ShowBBplay">Breacking Bad Play</Link>
+       <Link className="link " 
+       to="/ShowBBplay">Breacking Bad Play</Link>
  </nav>    
 
         <div className="container-main">
