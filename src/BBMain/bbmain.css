@@ -1,0 +1,38 @@
+
+
+body {
+ 
+    width:100%;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family: 'Maven Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Shizuru', cursive;
+font-family: 'Teko', sans-serif;
+font-family: 'ZCOOL QingKe HuangYou', cursive;
+    
+}
+
+.container-main .logo-main {
+    width: 300px;
+    height:240px;
+}
+nav{
+    width:100%;
+    text-align:center;
+    margin-top:-50px;
+}
+.link {
+    color:grey;
+    text-decoration: none;
+}
+
+.link:hover {
+   
+    color:black;
+   background-color:grey;
+
+}
+  
